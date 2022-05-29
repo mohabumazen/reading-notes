@@ -11,7 +11,7 @@ This is a website for documentation and highlighting the new knowledge, and to o
 
 | Class No.      | Reading No. |
 | -----------    | ----------- |
-| Class 01       | [Reading](../reading-notes/Class%2001/class01.md)       |
+| Class 01       | [Reading](https://github.com/mohabumazen/reading-notes/blob/main/Class%2001/class01.md)       |
 | Class 02       | [Reading](../reading-notes/Class%2002/class02.md)       |
 | Class 03       | [Reading]()       |
 | Class 04       | [Reading]()       |

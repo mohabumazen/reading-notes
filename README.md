@@ -13,7 +13,7 @@ This is a website for documentation and highlighting the new knowledge, and to o
 | -----------    | ----------- |
 | Class 01       | [Reading 1](class01.md)       |
 | Class 02       | [Reading 2](class02.md)       |
-| Class 03       | [Reading 3]()       |
+| Class 03       | [Reading 3](class03.md)       |
 | Class 04       | [Reading 4]()       |
 
 

@@ -15,6 +15,7 @@ This is a website for documentation and highlighting the new knowledge, and to o
 | Class 02       | [Reading 2](class02.md)       |
 | Class 03       | [Reading 3](class03.md)       |
 | Class 04       | [Reading 4](class04.md)       |
+| Class 05       | [Reading 5](class05.md)       |
 
 
 

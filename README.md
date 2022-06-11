@@ -16,6 +16,7 @@ This is a website for documentation and highlighting the new knowledge, and to o
 | Class 03       | [Reading 3](class03.md)       |
 | Class 04       | [Reading 4](class04.md)       |
 | Class 05       | [Reading 5](class05.md)       |
+| Class 06       | [Reading 6](class06.md)       |
 
 
 
@@ -23,7 +24,7 @@ This is a website for documentation and highlighting the new knowledge, and to o
 
 
 > ### Things I want to know more about
-> - Big O
+> - Testing, Classes
 
 
 

@@ -19,6 +19,8 @@ This is a website for documentation and highlighting the new knowledge, and to o
 | Class 06       | [Reading 6](class06.md)       |
 | Class 07       | [Reading 7](class07.md)       |
 | Class 08       | [Reading 8](class08.md)       |
+| Class 09       | [Reading 9](class09.md)       |
+| Class 10       | [Reading 10](class10.md)       |
 
 
 

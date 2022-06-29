@@ -23,7 +23,7 @@ This is a website for documentation and highlighting the new knowledge, and to o
 | Class 10       | [Reading 10](class10.md)      |
 | Class 11       | [Reading 11](class11.md)      |
 | Class 12       | [Reading 12](class12.md)      |
-
+| Class 13       | [Reading 13](class13.md)      |
 
 
 
